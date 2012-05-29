@@ -1,0 +1,3 @@
+[submodule "github.com/hoisie/web"]
+	path = github.com/hoisie/web
+	url = https://github.com/hoisie/web.git
